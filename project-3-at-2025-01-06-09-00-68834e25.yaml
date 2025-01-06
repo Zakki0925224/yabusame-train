@@ -1,0 +1,10 @@
+path: project-3-at-2025-01-06-09-00-68834e25
+train: images/train
+val: images/val
+nc: 5
+names:
+  - pedestrian_light_g
+  - pedestrian_light_r
+  - traffic_light_g
+  - traffic_light_r
+  - traffic_light_y
