@@ -48,5 +48,5 @@ def split_dataset(dataset_path, train_ratio=0.7):
     )
 
 
-dataset_path = "datasets/project-3-at-2025-01-09-13-25-25a1e639"
+dataset_path = "datasets/project-3-at-2025-01-16-07-57-578a93f1"
 split_dataset(dataset_path)

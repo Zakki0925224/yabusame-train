@@ -2,7 +2,7 @@ from ultralytics import YOLO
 
 model = YOLO("yolov8n.pt")
 model.train(
-    data="project-3-at-2025-01-09-13-25-25a1e639.yaml",
+    data="project-3-at-2025-01-16-07-57-578a93f1.yaml",
     epochs=50,
     imgsz=640,
     device="cpu",

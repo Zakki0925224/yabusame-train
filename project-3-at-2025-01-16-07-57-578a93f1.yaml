@@ -1,0 +1,25 @@
+path: project-3-at-2025-01-16-07-57-578a93f1
+train: images/train
+val: images/val
+nc: 20
+names:
+  - bike
+  - bus
+  - car
+  - pedestrian_light_g
+  - pedestrian_light_r
+  - person
+  - road_sign_crosswalk
+  - road_sign_no_parking
+  - road_sign_no_passing
+  - road_sign_other_directional
+  - road_sign_speed_limit_10
+  - road_sign_speed_limit_20
+  - road_sign_speed_limit_30
+  - road_sign_speed_limit_40
+  - road_sign_speed_limit_50
+  - road_sign_stop
+  - traffic_light_g
+  - traffic_light_r
+  - traffic_light_y
+  - truck
